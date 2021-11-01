@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Accessories &#8211; Fashion Designer</title>
+	<atom:link href="/product-category/accessories/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Just another Fashion Designer Template</description>
+	<lastBuildDate>Thu, 14 Oct 2021 09:30:37 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Serenity silver watch</title>
+		<link>/product/serenity-silver-watch/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 26 Jul 2021 03:58:10 +0000</pubDate>
+				<guid isPermaLink="false">/product/serenity-silver-watch/</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Pearl necklace</title>
+		<link>/product/exile-pearl-necklace/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 26 Jul 2021 03:53:45 +0000</pubDate>
+				<guid isPermaLink="false">/product/exile-pearl-necklace/</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Donna gold frame glasses</title>
+		<link>/product/donna-gold-frame-glasses/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 26 Jul 2021 03:45:34 +0000</pubDate>
+				<guid isPermaLink="false">/product/donna-gold-frame-glasses/</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Noorin gold ring watch</title>
+		<link>/product/noorin-gold-ring-watch/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 26 Jul 2021 03:21:24 +0000</pubDate>
+				<guid isPermaLink="false">/product/noorin-gold-ring-watch/</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Gold necklace</title>
+		<link>/product/allice-gold-necklace/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 26 Jul 2021 03:17:31 +0000</pubDate>
+				<guid isPermaLink="false">/product/allice-gold-necklace/</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Allure black watch</title>
+		<link>/product/allure-black-watch/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 26 Jul 2021 03:08:00 +0000</pubDate>
+				<guid isPermaLink="false">/product/allure-black-watch/</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Chloe tortoise eyewear</title>
+		<link>/product/chloe-tortoise-eyewear/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 26 Jul 2021 02:13:59 +0000</pubDate>
+				<guid isPermaLink="false">/product/chloe-tortoise-eyewear/</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

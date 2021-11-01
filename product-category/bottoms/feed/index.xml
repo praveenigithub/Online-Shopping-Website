@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Bottoms &#8211; Fashion Designer</title>
+	<atom:link href="/product-category/bottoms/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Just another Fashion Designer Template</description>
+	<lastBuildDate>Fri, 22 Oct 2021 06:22:44 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Boys Dennim</title>
+		<link>/product/mila-dual-pocket-pant/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 26 Jul 2021 03:56:32 +0000</pubDate>
+				<guid isPermaLink="false">/product/mila-dual-pocket-pant/</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Classic pant white</title>
+		<link>/product/white-classic-pant/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 26 Jul 2021 03:09:48 +0000</pubDate>
+				<guid isPermaLink="false">/product/white-classic-pant/</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
