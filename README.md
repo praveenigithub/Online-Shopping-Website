@@ -2,7 +2,6 @@
 wordpress 4
 ![d - 40](https://user-images.githubusercontent.com/93367606/142027874-55e9dfbe-5b82-4f67-b35b-a44fcfffa887.PNG)
 ![d - 41](https://user-images.githubusercontent.com/93367606/142027882-50cd4b40-f0b6-47fb-a09a-7db329d64d0b.PNG)
-![d - 42](https://user-images.githubusercontent.com/93367606/142027889-1576099e-4b33-4eb7-8e78-7c766c7af400.PNG)
 ![d -42](https://user-images.githubusercontent.com/93367606/142028059-caf79cfd-efbd-49cc-a4e2-80b14694e5f4.PNG)
 ![d - 43](https://user-images.githubusercontent.com/93367606/142027899-ce6b7866-11db-4e95-b94b-6083d7a7178a.PNG)
 ![d - 44](https://user-images.githubusercontent.com/93367606/142027907-c3b99df6-af90-4551-9f2f-e837a5058ae8.PNG)
